@@ -1,8 +1,8 @@
-package org.example.processors;
+package org.example.context;
 
-import org.example.strategies.HtmlListStrategy;
+import org.example.concreteStrategies.HtmlListStrategy;
 import org.example.strategies.ListStrategyInterface;
-import org.example.strategies.MarkdownListStrategy;
+import org.example.concreteStrategies.MarkdownListStrategy;
 import org.example.types.OutputFormat;
 
 import java.util.List;

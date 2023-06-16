@@ -1,4 +1,6 @@
-package org.example.strategies;
+package org.example.concreteStrategies;
+
+import org.example.strategies.ListStrategyInterface;
 
 public class HtmlListStrategy implements ListStrategyInterface {
 

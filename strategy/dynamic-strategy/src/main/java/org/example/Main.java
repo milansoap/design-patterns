@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.processors.TextProcessor;
+import org.example.context.TextProcessor;
 import org.example.types.OutputFormat;
 
 import java.util.List;
